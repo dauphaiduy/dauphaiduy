@@ -50,9 +50,7 @@
 ---
 
 ### 🐍 Contribution Snake
-<p align="center">
-  <img src="https://github.com/dauphaiduy/dauphaiduy/blob/output/snake.svg" alt="snake animation" />
-</p>
+![snake gif](https://github.com/dauphaiduy/dauphaiduy/blob/output/snake.svg)
 
 ---
 
