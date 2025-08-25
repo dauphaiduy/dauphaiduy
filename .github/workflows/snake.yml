@@ -1,9 +1,13 @@
 name: Generate Snake
 
 on:
-  schedule: 
-    - cron: "0 */12 * * *"  # Runs every 12 hours
+  schedule:
+    - cron: "0 */12 * * *" # every 12 hours
   workflow_dispatch:
+
+# 👇 Add this to allow write access
+permissions:
+  contents: write
 
 jobs:
   build:
@@ -11,7 +15,7 @@ jobs:
     steps:
       - uses: Platane/snk@v3
         with:
-          github_user_name: dauphaiduy
+          github_user_name: dauphaiduy   # your username
           outputs: dist/snake.svg
 
       - name: Push Snake Animation
