@@ -49,6 +49,13 @@
 
 ---
 
+### 🐍 Contribution Snake
+<p align="center">
+  <img src="https://github.com/dauphaiduy/dauphaiduy/blob/output/snake.svg" alt="snake animation" />
+</p>
+
+---
+
 ### 🌐 Connect With Me
 <p align="center">
   <a href="https://www.linkedin.com/in/duy-nguy%E1%BB%85n-kh%C3%A1nh-5b9b2130a">
