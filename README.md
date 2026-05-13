@@ -1,7 +1,7 @@
 <!-- Flashy GitHub Profile README -->
 
 <h1 align="center">Hi 👋, I'm Duy</h1>
-<h3 align="center">🚀 Junior Developer | Go | NestJS | React</h3>
+<h3 align="center">🚀 Developer | Go | NestJS | React</h3>
 
 <!-- Typing SVG -->
 <p align="center">
