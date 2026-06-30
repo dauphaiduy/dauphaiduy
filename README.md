@@ -16,7 +16,7 @@
 - ⚡ Exploring **Kubernetes & Cloud Deployments**
 - 💬 Ask me about **SFTP sync, BullMQ, and backend performance**
 - 📫 Reach me at: **nguyenkhanhduy.work@gmail.com**
-
+- Portfolio: https://dauphaiduy-portfolio.vercel.app/
 ---
 
 ### 🛠️ Tech Stack
